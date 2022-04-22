@@ -1,0 +1,84 @@
+{
+  "cursos": [
+    {
+        "id": "1",
+        "referral": "https://gleam.io/nffyC/duckie-land-nft-giveaway?gsr=nffyC-3pxKkitF2z",
+        "title": "Duckie Land",
+        "tipo": "Whitelist", 
+        "data_final": "2022-4-12",
+        "image_url": "https://user-assets.out.sh/user-assets/1898245/6GGiMcbs2fsK8isH/upload.jpg"
+
+    },
+    {
+        "id": "2",
+        "referral": "https://gleam.io/BhAB8/galaxy-blitz-community-whitelist-contest?gsr=BhAB8-3DA5mOgFtp",
+        "title": "Galaxy", 
+        "tipo": "Airdrop",
+        "data_final": "2022-4-11",
+        "image_url": "https://user-assets.out.sh/user-assets/1888083/TGxLiQPtCIUoggLU/white-list.jpg"
+        
+    },
+    {
+        "id": "4" ,
+        "referral": "https://goe.gg/airdrop/?gsr=YdZDP-40wupv1Vt6",
+        "title: 'Gates of Ethernity",
+        "tipo": "Whitelist",
+        "data_final": "2022-4-2",
+        "image_url": "https://user-assets.out.sh/user-assets/1796304/Apj4ddp0sgNTUhpC/gatesofethernity_teaser_thumbnail.jpg"
+        
+    },
+        {
+        "id": "5",
+        "referral": "https://gleam.io/nffyC/duckie-land-nft-giveaway?gsr=nffyC-3pxKkitF2z",
+        "title": "Duckie Land",
+        "tipo": "Whitelist", 
+        "data_final": "2022-4-12",
+        "image_url": "https://user-assets.out.sh/user-assets/1898245/6GGiMcbs2fsK8isH/upload.jpg"
+
+    },
+    {
+        "id": "6",
+        "referral": "https://gleam.io/BhAB8/galaxy-blitz-community-whitelist-contest?gsr=BhAB8-3DA5mOgFtp",
+        "title": "Galaxy", 
+        "tipo": "Airdrop",
+        "data_final": "2022-4-11",
+        "image_url": "https://user-assets.out.sh/user-assets/1888083/TGxLiQPtCIUoggLU/white-list.jpg"
+        
+    },
+    {
+        "id": "7" ,
+        "referral": "https://goe.gg/airdrop/?gsr=YdZDP-40wupv1Vt6",
+        "title: 'Gates of Ethernity",
+        "tipo": "Whitelist",
+        "data_final": "2022-4-2",
+        "image_url": "https://user-assets.out.sh/user-assets/1796304/Apj4ddp0sgNTUhpC/gatesofethernity_teaser_thumbnail.jpg"
+        
+    },
+        {
+        "id": "8",
+        "referral": "https://gleam.io/nffyC/duckie-land-nft-giveaway?gsr=nffyC-3pxKkitF2z",
+        "title": "Duckie Land",
+        "tipo": "Whitelist", 
+        "data_final": "2022-4-12",
+        "image_url": "https://user-assets.out.sh/user-assets/1898245/6GGiMcbs2fsK8isH/upload.jpg"
+
+    },
+    {
+        "id": "9",
+        "referral": "https://gleam.io/BhAB8/galaxy-blitz-community-whitelist-contest?gsr=BhAB8-3DA5mOgFtp",
+        "title": "Galaxy", 
+        "tipo": "Airdrop",
+        "data_final": "2022-4-11",
+        "image_url": "https://user-assets.out.sh/user-assets/1888083/TGxLiQPtCIUoggLU/white-list.jpg"
+        
+    },
+    {
+        "id": "10" ,
+        "referral": "https://goe.gg/airdrop/?gsr=YdZDP-40wupv1Vt6",
+        "title: 'Gates of Ethernity",
+        "tipo": "Whitelist",
+        "data_final": "2022-4-2",
+        "image_url": "https://user-assets.out.sh/user-assets/1796304/Apj4ddp0sgNTUhpC/gatesofethernity_teaser_thumbnail.jpg"
+        
+    }
+  ]
